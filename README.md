@@ -15,3 +15,4 @@ Commit with Git.
 Little more 'bout myself:
 
 1. I love to Draw, and make stuff
+2. I taught myself guitar
