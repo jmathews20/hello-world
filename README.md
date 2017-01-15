@@ -11,3 +11,5 @@ Bacon, bacon, bacon, bacon!
 Still making my commits.....
 CoMmIt CoMiT COmmIT.
 Commit with Git.
+
+Little more 'bout myself:
