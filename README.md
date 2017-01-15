@@ -18,3 +18,5 @@ Little more 'bout myself:
 2. I taught myself guitar
 3. I'm the only one with red hair in my family
 4. Basketball is my favorite sport
+
+Today's NBA scores:
