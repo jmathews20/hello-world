@@ -17,3 +17,4 @@ Little more 'bout myself:
 1. I love to Draw, and make stuff
 2. I taught myself guitar
 3. I'm the only one with red hair in my family
+4. Basketball is my favorite sport
