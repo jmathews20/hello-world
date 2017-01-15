@@ -20,3 +20,5 @@ Little more 'bout myself:
 4. Basketball is my favorite sport
 
 Today's NBA scores:
+
+Knicks vs Raptors   101 - 116
