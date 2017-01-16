@@ -24,3 +24,4 @@ Today's NBA scores:
 Knicks vs Raptors   101 - 116
 (Halftime) Rockets vs Nets     56 - 49
 Timberwolves vs Mavericks   87 - 98
+Bucks vs Hawks    98 - 111
