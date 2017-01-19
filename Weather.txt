@@ -2,4 +2,6 @@ This is the Weather Forecast:
 
 Orem Weather
 
-Today 57 Degrees, Showers
+Today 31 Degrees, Cloudy
+Thursday 27 Degrees, Snow
+Friday 28 Degrees, Cloudy
