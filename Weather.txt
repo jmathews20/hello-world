@@ -1,4 +1,4 @@
-This is the Weather Forecast:
+﻿This is the Weather Forecast:
 
 Orem Weather
 
@@ -17,3 +17,7 @@ New York Forecast
 Today - 39 Degrees, Mostly Cloudy
 Thursday - 36 Degrees, Sunny
 Friday - 41 Degrees, Showers
+
+Fielding Weather
+
+Today - 17 Degrees, Cloudy
