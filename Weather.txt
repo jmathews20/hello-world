@@ -4,3 +4,5 @@ New York Forecast
 
 Today - 42 Degrees, Cloudy
 Saturday - 47 Degrees, Cloudy
+Sunday - 43 Degrees, Showers
+Monday - 43 Degrees, Showers
