@@ -2,24 +2,19 @@
 
 Orem Weather
 
-Today 31 Degrees, Cloudy
-Thursday 27 Degrees, Snow
-Friday 28 Degrees, Cloudy
-
-San Diego's Forecast
-
-Today 10PM - 57� Showers
-Thursday - 55� Showers
-Friday - 55� Showers
-
+Today 37 Degrees, Snow Showers
+Saturday 25 Degrees, Snow
+Sunday 31 Degrees, Snow
+Monday 24 Degrees, Snow
 New York Forecast
 
-Today - 39 Degrees, Mostly Cloudy
-Thursday - 36 Degrees, Sunny
-Friday - 41 Degrees, Showers
+Today - 42 Degrees, Cloudy
+Saturday - 47 Degrees, Cloudy
+Sunday - 43 Degrees, Showers
+Monday - 43 Degrees, Showers
+San Diego's Forecast
 
-Fielding Weather
-
-Today - 17 Degrees, Cloudy
-Thursday - 23 Degrees, Snowy
-Friday - 21 Degrees, Partly Cloudy
+Today - 56 Degrees, Mostly Cloudy
+Saturday - 52 Degrees, Partly Cloudy
+Sunday - 57 Degrees, Showers
+Monday - 49 Degrees, Showers
