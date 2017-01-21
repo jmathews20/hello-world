@@ -12,3 +12,7 @@ Today - 42 Degrees, Cloudy
 Saturday - 47 Degrees, Cloudy
 Sunday - 43 Degrees, Showers
 Monday - 43 Degrees, Showers
+San Diego's Forecast
+
+Today - 56 Degrees, Mostly Cloudy
+Saturday - 52 Degrees, Partly Cloudy
