@@ -16,3 +16,5 @@ San Diego's Forecast
 
 Today - 56 Degrees, Mostly Cloudy
 Saturday - 52 Degrees, Partly Cloudy
+Sunday - 57 Degrees, Showers
+Monday - 49 Degrees, Showers
