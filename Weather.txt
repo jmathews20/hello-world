@@ -5,6 +5,7 @@ Orem Weather
 Today 37 Degrees, Snow Showers
 Saturday 25 Degrees, Snow
 Sunday 31 Degrees, Snow
+Monday 24 Degrees, Snow
 New York Forecast
 
 Today - 42 Degrees, Cloudy
